@@ -1,3 +1,3 @@
 # React-custom-hook-with-fetch-api
-How to create custem hook function component with an api request http
+How to create custom hook function component with an api request http
 lesson 3
